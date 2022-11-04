@@ -1,15 +1,33 @@
 Quizzer App
 =========
 
-Quizzer is a full stack web application that allows users to create, take and share multiple choice quizzes.
+Quizzer is a full stack web application that allows users to create, take and share multiple choice quizzes. 
 
-This was a group project completed by Jeremy Buist and Jillian Aubrey as a part of our learning at [Lighthouse Labs](https://www.lighthouselabs.ca/).
+It is built using Javascript, jQuery, EJS, Node.js and SASS.
+
+Quizzer was completed by Jeremy Buist and Jillian Aubrey as a part of our learning at [Lighthouse Labs](https://www.lighthouselabs.ca/). We carried out the complete back and front-end development of the application, given some client specifications. 
+
 
 ## Final Product
 
+#### Home page (logged out)
+
 !["Screenshot of home page"](https://github.com/JillianAubrey/quizz_app/blob/master/docs/HomePage.png)
 
-!["Screenshot of quiz page"](https://github.com/JillianAubrey/quizz_app/blob/master/docs/QuizPage.png)
+
+#### Viewing and taking quizzes
+
+https://user-images.githubusercontent.com/79812985/200088291-d82d3fe2-2405-4991-a702-8c5df7958e2d.mov
+
+
+#### Viewing my account information
+
+https://user-images.githubusercontent.com/79812985/200088329-fb17472f-b9ed-4d1c-89b5-8c5a65ac767e.mov
+
+
+#### Making a quiz
+
+https://user-images.githubusercontent.com/79812985/200088350-06362edd-1fdb-4130-903e-33e6a80e3e3f.mov
 
 
 ## Dependencies
